@@ -1,0 +1,113 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="rippleRadius">64dp</dimen>
+
+    <dimen name="activity_horizontal_margin">6dp</dimen>
+    <dimen name="activity_vertical_margin">6dp</dimen>
+
+    <dimen name="drawer_size">200dp</dimen>
+    <dimen name="drawer_content_padding">0dp</dimen>
+
+    <bool name="isTablet">false</bool>
+
+    <dimen name="navdrawer_width">260dp</dimen>
+
+    <!-- dimentions for android L mobile metrics -->
+    <dimen name="eightdp">8dp</dimen>
+    <!-- margin line gap -->
+    <dimen name="seventeensp">17sp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="twelvesp">12sp</dimen>
+    <dimen name="thirteensp">13sp</dimen>
+    <dimen name="sixteendp">16dp</dimen>
+    <!-- margins layout left/right -->
+    <dimen name="thirtytwodp">32dp</dimen>
+    <!--  -->
+    <dimen name="twentyfourdp">24dp</dimen>
+    <!-- action bar top margin(default) -->
+    <dimen name="fourtyeightdp">48dp</dimen>
+    <dimen name="fiftysixdp">56dp</dimen>
+    <!-- action bar margin && navigation drawer right space margin -->
+    <dimen name="seventytwodp">72dp</dimen>
+    <!-- listvew cell height && content left and right margin -->
+
+
+    <!-- font size -->
+    <dimen name="sixteenspsize">16sp</dimen>
+    <dimen name="eighteenspsize">18sp</dimen>
+    <dimen name="fab_size_normal">60dp</dimen>
+    <dimen name="fab_size_mini">30dp</dimen>
+    <dimen name="fab_shadow_size">6dp</dimen>
+    <dimen name="fab_scroll_threshold">4dp</dimen>
+    <dimen name="fab_elevation_lollipop">8dp</dimen>
+    <!-- Eventbeee dimens -->
+
+    <!-- Default screen marginsend -->
+    <dimen name="activiTabMargin">10dp</dimen>
+    <dimen name="tabHeight">5dp</dimen>
+    <dimen name="fixedtendpsize">12dp</dimen>
+    <dimen name="tendpsize">10dp</dimen>
+    <dimen name="fivedpsize">5dp</dimen>
+    <dimen name="sevendpsize">7dp</dimen>
+    <dimen name="fifteendpsize">10dp</dimen>
+    <dimen name="nineteenspsize">17sp</dimen>
+    <dimen name="twentyspsize">20sp</dimen>
+    <dimen name="thirtyspsize">25sp</dimen>
+    <dimen name="twentyonespsize">19sp</dimen>
+    <dimen name="twentytwospsize">20sp</dimen>
+    <dimen name="twohundredfiftydp">250dp</dimen>
+    <dimen name="twentyfivedpsize">20dp</dimen>
+    <dimen name="thirtydpsize">30dp</dimen>
+    <dimen name="thirtyfivedpsize">35dp</dimen>
+    <dimen name="thirtysixdpsize">36dp</dimen>
+    <dimen name="fourtydpsize">40dp</dimen>
+    <dimen name="fourtyspsize">40sp</dimen>
+    <dimen name="fourtyfivedpsize">40dp</dimen>
+    <dimen name="fiftyfivedpsize">48dp</dimen>
+    <dimen name="sixtydpsize">60dp</dimen>
+    <dimen name="eightyfivedpsize">85dp</dimen>
+    <dimen name="ninetydpsize">90dp</dimen>
+    <dimen name="twentydpMargin">15dp</dimen>
+    <dimen name="titleSize">22sp</dimen>
+    <dimen name="smalldividerHeight">0.7dp</dimen>
+    <dimen name="onetwentydp">120dp</dimen>
+    <dimen name="oneeightydp">180dp</dimen>
+    <dimen name="onefiftydp">150dp</dimen>
+    <dimen name="optleftPadding">20dp</dimen>
+    <dimen name="optrightPadding">20dp</dimen>
+    <dimen name="opttopPadding">10dp</dimen>
+    <dimen name="optbottomPadding">10dp</dimen>
+    <dimen name="onehundredseventeen">117dp</dimen>
+    <!-- country select_bank_dialog arguments start -->
+    <dimen name="cp_dialog_width">200dp</dimen>
+    <dimen name="cp_dialog_height">300dp</dimen>
+    <!-- country select_bank_dialog arguments end -->
+
+
+    <!--
+          <dimen name="tendpsize">10dp</dimen>
+          <dimen name="fivedpsize">5dp</dimen>
+          <dimen name="sevendpsize">7dp</dimen>
+          <dimen name="fifteendpsize">10dp</dimen>
+          <dimen name="eighteenspsize">14sp</dimen>
+          <dimen name="nineteenspsize">15sp</dimen>
+          <dimen name="twentyspsize">16sp</dimen>
+          <dimen name="twentyonespsize">17sp</dimen>
+          <dimen name="twentytwospsize">18sp</dimen>
+
+
+           <dimen name="twentyfivedpsize">20dp</dimen>
+           <dimen name="thirtyfivedpsize">35dp</dimen>
+           <dimen name="fourtyfivedpsize">40dp</dimen>
+            <dimen name="fiftyfivedpsize">48dp</dimen>
+
+           <dimen name="eightyfivedpsize">45dp</dimen>
+           <dimen name="ninetydpsize">50dp</dimen>
+
+    -->
+
+    <dimen name="abc_action_bar_default_height">48dp</dimen>
+</resources>
+
